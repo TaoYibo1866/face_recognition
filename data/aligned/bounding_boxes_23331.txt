@@ -1,0 +1,9 @@
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225135.png 279 87 493 345
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225144.png 279 146 508 429
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225138.png 250 111 473 387
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225146.png 290 92 509 352
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225148.png 258 106 480 363
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225141.png 263 159 489 425
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225137.png 291 90 506 351
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225133.png 270 105 508 404
+/home/tao/tensorflow/face_ws/data/aligned/WSX/201897225142.png 241 137 486 423
