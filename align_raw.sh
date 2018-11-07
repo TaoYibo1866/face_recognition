@@ -9,3 +9,4 @@ echo $src_path
 export PYTHONPATH=$PYTHONPATH:$src_path
 echo $PYTHONPATH
 python $src_path/align/align_dataset_mtcnn.py /home/tao/tensorflow/face_ws/data/raw /home/tao/tensorflow/face_ws/data/aligned --image_size 182 --margin 44 --gpu_memory_fraction 0.25
+#python $src_path/align/align_dataset_mtcnn.py /home/tao/tensorflow/face_ws/data2/raw /home/tao/tensorflow/face_ws/data2/aligned --image_size 182 --margin 44 --gpu_memory_fraction 0.25

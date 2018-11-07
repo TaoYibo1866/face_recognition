@@ -9,6 +9,7 @@ import time
 script_path = os.path.abspath(__file__)
 raw_dir = os.path.abspath(os.path.join(script_path, '..', 'data', 'raw'))
 cap = cv2.VideoCapture(0)
+
 while True:
     print("Name:")
     person = input("> ")

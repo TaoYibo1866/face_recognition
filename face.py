@@ -13,6 +13,7 @@ import facenet
 script_path = os.path.abspath(__file__)
 facenet_model_checkpoint = os.path.abspath(os.path.join(script_path, '..', 'models', '20180402-114759'))
 classifier_model = os.path.abspath(os.path.join(script_path, '..', 'models', 'my_classifier.pkl'))
+#classifier_model = os.path.abspath(os.path.join(script_path, '..', 'models', 'my_classifier2.pkl'))
 
 gpu_memory_fraction = 0.3
 #facenet_model_checkpoint = '/home/tao/tensorflow/face_ws/models/20180402-114759'
